@@ -1,0 +1,49 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Cennik",
+      "url": "/pricing"
+    },
+    {
+      "name": "Kontakt",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "O nas",
+      "menu": [
+        {
+          "text": "Start",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Produ",
+      "menu": [
+        {
+          "text": "Cennik",
+          "url": "/pricing"
+        }
+      ]
+    },
+    {
+      "name": "Pomoc",
+      "menu": [
+        {
+          "text": "Polityka prywatności",
+          "url": "/privacy-policy"
+        },
+        {
+          "text": "Warunki i zasady",
+          "url": "/terms-conditions"
+        }
+      ]
+    }
+  ]
+}
